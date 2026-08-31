@@ -1,0 +1,23 @@
+{
+  "name": "Forever",
+  "identifier": "com.shamali.forever.source",
+  "sourceURL": "https://raw.githubusercontent.com/12shamali12/forever-releases/main/apps.json",
+  "apps": [
+    {
+      "name": "Forever",
+      "bundleIdentifier": "com.shamali.forever",
+      "developerName": "Shamali",
+      "version": "0.0.0",
+      "versionDate": "2026-09-01T00:00:00Z",
+      "versionDescription": "No build has been published yet. The first run of the iOS workflow replaces this entry with a real version, a real size and a download that works.",
+      "size": 0,
+      "localizedDescription": "A private world for two people. The day, messages, plans, memories, promises, letters and the rest, in one app. Forever talks to a server rather than living only on the phone: everything real sits behind an account, and accounts are invitation-only.\n\nSideStore signs this build on your phone with your own Apple ID, so it renews itself every seven days. Notifications do not arrive on a sideloaded build — Apple grants that entitlement only to paid memberships — and everything else works.",
+      "iconURL": "https://raw.githubusercontent.com/12shamali12/forever-releases/main/icon.png",
+      "tintColor": "9E1F3C",
+      "downloadURL": "https://github.com/12shamali12/forever-releases/releases/download/v0.0.0/forever.ipa",
+      "screenshotURLs": [],
+      "versions": []
+    }
+  ],
+  "news": []
+}
