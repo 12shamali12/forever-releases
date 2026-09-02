@@ -7,16 +7,23 @@
       "name": "Forever",
       "bundleIdentifier": "com.shamali.forever",
       "developerName": "Shamali",
-      "version": "0.1.342",
-      "versionDate": "2026-09-02T18:25:21.076Z",
-      "versionDescription": "first published build — the door, the tape, moments, stickers",
-      "size": 1340349,
+      "version": "0.1.343",
+      "versionDate": "2026-09-02T20:07:03.125Z",
+      "versionDescription": "stage as Forever.app to clear the fleet collision",
+      "size": 1340773,
       "localizedDescription": "A private world for two people. The day, messages, plans, memories, promises, letters and the rest, in one app. Forever talks to a server rather than living only on the phone: everything real sits behind an account, and accounts are invitation-only.\n\nSideStore signs this build on your phone with your own Apple ID, so it renews itself every seven days. Notifications do not arrive on a sideloaded build — Apple grants that entitlement only to paid memberships — and everything else works.",
       "iconURL": "https://raw.githubusercontent.com/12shamali12/forever-releases/main/icon.png",
       "tintColor": "9E1F3C",
-      "downloadURL": "https://github.com/12shamali12/forever-releases/releases/download/v0.1.342/forever.ipa",
+      "downloadURL": "https://github.com/12shamali12/forever-releases/releases/download/v0.1.343/forever.ipa",
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "0.1.343",
+          "date": "2026-09-02T20:07:03.125Z",
+          "localizedDescription": "stage as Forever.app to clear the fleet collision",
+          "downloadURL": "https://github.com/12shamali12/forever-releases/releases/download/v0.1.343/forever.ipa",
+          "size": 1340773
+        },
         {
           "version": "0.1.342",
           "date": "2026-09-02T18:25:21.076Z",
